@@ -675,9 +675,9 @@
     - [ ] [堆排序 —— 跳到起点（视频）](https://youtu.be/odNJmw5TOEE?list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&t=3291)
     - [x] [堆排序（视频）](https://www.coursera.org/learn/data-structures/lecture/hSzMO/heap-sort)
     - [x] [构建一个堆（视频）](https://www.coursera.org/learn/data-structures/lecture/dwrOS/building-a-heap)
-    - [ ] [MIT：堆与堆排序（视频）](https://www.youtube.com/watch?v=B7hVxCmfPtM&index=4&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
+    - [x] [MIT：堆与堆排序（视频）](https://www.youtube.com/watch?v=B7hVxCmfPtM&index=4&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
     - [ ] [CS 61B Lecture 24：优先级队列（视频）](https://www.youtube.com/watch?v=yIUFT6AKBGE&index=24&list=PL4BBB74C7D2A1049C)
-    - [ ] [构建线性时间复杂度的堆（大顶堆）](https://www.youtube.com/watch?v=MiyLo8adrWw)
+    - [x] [构建线性时间复杂度的堆（大顶堆）](https://www.youtube.com/watch?v=MiyLo8adrWw)
     - [ ] [[Review] Heap (playlist) in 13 minutes (video)](https://www.youtube.com/playlist?list=PL9xmBV_5YoZNsyqgPW-DNwUeT8F8uhWc6)
     - [ ] 实现一个大顶堆：
         - [ ] insert
@@ -693,22 +693,22 @@
 
 ## 排序（Sorting）
 
-- [ ] 笔记:
+- [x] 笔记:
     - 实现各种排序，知道每种排序的最坏、最好和平均的复杂度分别是什么场景:
         - 不要用冒泡排序 - 效率太差 - 时间复杂度 O(n^2), 除非 n <= 16
-    - [ ] 排序算法的稳定性 ("快排是稳定的么?")
+    - [x] 排序算法的稳定性 ("快排是稳定的么?")
         - [排序算法的稳定性](https://en.wikipedia.org/wiki/Sorting_algorithm#Stability)
         - [排序算法的稳定性](http://stackoverflow.com/questions/1517793/stability-in-sorting-algorithms)
         - [排序算法的稳定性](http://www.geeksforgeeks.org/stability-in-sorting-algorithms/)
         - [排序算法 - 稳定性](http://homepages.math.uic.edu/~leon/cs-mcs401-s08/handouts/stability.pdf)
-    - [ ] 哪种排序算法可以用链表？哪种用数组？哪种两者都可？
+    - [x] 哪种排序算法可以用链表？哪种用数组？哪种两者都可？
         - 并不推荐对一个链表排序，但归并排序是可行的.
         - [链表的归并排序](http://www.geeksforgeeks.org/merge-sort-for-linked-list/)
 
 - 关于堆排序，请查看前文堆的数据结构部分。堆排序很强大，不过是非稳定排序。
 - [ ] [Sedgewick ── 归并排序（5个视频）](https://www.coursera.org/learn/algorithms-part1/home/week/3)
-    - [ ] 1. 归并排序
-    - [ ] 2. 自下而上的归并排序
+    - [x] 1. 归并排序
+    - [x] 2. 自下而上的归并排序
     - [ ] 3. 排序复杂度
     - [ ] 4. 比较器
     - [ ] 5. 稳定性
