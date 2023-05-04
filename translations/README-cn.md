@@ -734,13 +734,13 @@
     - [ ] [实现（C语言）](https://github.com/jwasham/practice-c/blob/master/quick_sort/quick_sort.c)
     - [ ] [实现（Python语言）](https://github.com/jwasham/practice-python/blob/master/quick_sort/quick_sort.py)
 
-- [ ] [[Review] Sorting (playlist) in 18 minutes](https://www.youtube.com/playlist?list=PL9xmBV_5YoZOZSbGAXAPIq1BeUf4j20pl)
-    - [ ] [Quick sort in 4 minutes (video)](https://youtu.be/Hoixgm4-P4M)
-    - [ ] [Heap sort in 4 minutes (video)](https://youtu.be/2DmK_H7IdTo)
-    - [ ] [Merge sort in 3 minutes (video)](https://youtu.be/4VqmGXwpLqc)
-    - [ ] [Bubble sort in 2 minutes (video)](https://youtu.be/xli_FI7CuzA)
-    - [ ] [Selection sort in 3 minutes (video)](https://youtu.be/g-PGLbMth_g)
-    - [ ] [Insertion sort in 2 minutes (video)](https://youtu.be/JU767SDMDvA)
+- [x] [[Review] Sorting (playlist) in 18 minutes](https://www.youtube.com/playlist?list=PL9xmBV_5YoZOZSbGAXAPIq1BeUf4j20pl)
+    - [x] [Quick sort in 4 minutes (video)](https://youtu.be/Hoixgm4-P4M)
+    - [x] [Heap sort in 4 minutes (video)](https://youtu.be/2DmK_H7IdTo)
+    - [x] [Merge sort in 3 minutes (video)](https://youtu.be/4VqmGXwpLqc)
+    - [x] [Bubble sort in 2 minutes (video)](https://youtu.be/xli_FI7CuzA)
+    - [x] [Selection sort in 3 minutes (video)](https://youtu.be/g-PGLbMth_g)
+    - [x] [Insertion sort in 2 minutes (video)](https://youtu.be/JU767SDMDvA)
 
 - [ ] 实现:
     - [ ] 归并：平均和最差情况的时间复杂度为 O(n log n)。
@@ -778,7 +778,7 @@
     - 广度优先搜索和深度优先搜索：知道它们的计算复杂度和设计上的权衡以及如何用代码实现它们
     - 遇到一个问题时，首先尝试基于图的解决方案，如果没有再去尝试其他的。
 
-- MIT（视频）：
+- [x] MIT（视频）：
     - [广度优先搜索](https://www.youtube.com/watch?v=s-CYnVz-uh4&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=13)
     - [深度优先搜索](https://www.youtube.com/watch?v=AfSk24UTFS8&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=14)
 
@@ -792,8 +792,8 @@
 
 - [ ] 图 (复习和其他):
 
-    - [ ] [6.006 单源最短路径问题（视频）](https://www.youtube.com/watch?v=Aa2sqUhIn-E&index=15&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
-    - [ ] [6.006 Dijkstra 算法（视频）](https://www.youtube.com/watch?v=2E7MmKv0Y24&index=16&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
+    - [x] [6.006 单源最短路径问题（视频）](https://www.youtube.com/watch?v=Aa2sqUhIn-E&index=15&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
+    - [x] [6.006 Dijkstra 算法（视频）](https://www.youtube.com/watch?v=2E7MmKv0Y24&index=16&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
     - [ ] [6.006 Bellman-Ford 算法（视频）](https://www.youtube.com/watch?v=ozsuci5pIso&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=17)
     - [ ] [6.006 Dijkstra 效率优化（视频）](https://www.youtube.com/watch?v=CHvQ3q_gJ7E&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=18)
     - [ ] [Aduni: 图的算法 I - 拓扑排序，最小生成树，Prim 算法 - 第六课（视频）](https://www.youtube.com/watch?v=i_AQT_XfvD8&index=6&list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm)
